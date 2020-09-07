@@ -82,7 +82,7 @@ __Závěry: chybí autorita / product owner pro web__
 
 
 ## Cvičení 2: Další kroky 
-![Výsledky cvičení 2](00_UvodniWorkshop/VysledkyCviceni2.png)
+![Výsledky cvičení 2](VysledkyCviceni2.png)
 
 ### Přepis cvičení 2
 Vytvoříme __web/homepage__ __insolvence/exekucí/znalců__,
