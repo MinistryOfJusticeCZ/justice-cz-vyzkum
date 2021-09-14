@@ -88,12 +88,32 @@ __Projektový manažer:__ Martin Kuba
 
 ## Tech-stack
 ### Marketingové touchpointy
+__Placené__: 
+- Žádné
+
+__Získané__:
+- externí zpravodajské weby/touchpointy
+- fb -> příspěvky ve skupinách, které nám lidé sdílí
+
+__Vlastní__:
+- samotný web
+- fb -> vlastní stránka
+- twitter 
+- zasílané aktuality – newsletter pro lidi, kteří se chtějí stát překladateli
 
 ### Obsah
+- obsah vychází ze zákona -> aplikační praxe
+- aktuality
+- dohledové benchmarky
+- šablony
 
 ### Analytika
+- Google Analytics
+- FB
 
 ### Infrastruktura
+- WordPress (customizované řešení)
+- vlastní servery
 
 ## Omezení a rizika
 ### Omezení
