@@ -8,7 +8,7 @@ Odkaz na celý skript k rozhorovům: TBD
 Můžete mi pro začátek říct něco málo o sobě?
 - Čím se přesně zabýváte?
 - Jak dlouhá je vaše praxe jako soudního tlumočníka/překl.?
-- Co vás vedlo k tomu, že jste se rozhodl*a získat kvalifikaci soudním tlum/překl.?
+- Co vás vedlo k tomu, že jste se rozhodla získat kvalifikaci soudním tlum/překl.?
 
 ### Portál v kontextu běžného fungování tlumočníků a p.
 Jaké jsou vaše zkušenosti s Portálem pro soudní tlumočníky a překl.?
