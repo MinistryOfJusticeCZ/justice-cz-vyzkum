@@ -8,7 +8,7 @@
 2. Ideace
 3. Skicování
 
-1. Opportunity Solution Tree (OST)
+### Opportunity Solution Tree (OST)
 - Vizuální nástroj, který podporuje strukturované přemýšlení nad zlepšováním produktu či služby. Má čtyři vzájemně provázané úrovně — cíl, příležitosti, řešení a experimenty.
 - Dopadem našeho snažení bylo _Posílení značky MSp_
 
